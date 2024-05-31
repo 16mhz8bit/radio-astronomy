@@ -13,3 +13,5 @@ First of all, I've been passionate about physics, engineering and astronomy sinc
 Secondly, I've been using my regular Newtonian telescope for a couple of years now, and the feeling you get when looking at the universe is just amazing. So, why not try to take another look, but in a different way?  
 This idea does not just come from nothing... Lately, I've read this really interesting paper called "Basics of Radio Astronomy for the Goldstone-Apple Valley Radio Telescope" from NASA dated April 1998, where lots of physics behind radio telescopes is explained.  
 These factors made me think I could build such a thing... so I started!  
+
+Check out the live project page here: [link](https://hackaday.io/project/195777-polyphemus)
